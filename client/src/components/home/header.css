@@ -1,0 +1,29 @@
+.headercomp{
+    width:100%;
+    
+}
+.headerMenu{
+    max-width: 80%;
+    margin: auto;
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.left>p{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.right{
+    
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    
+}
+.right >p{
+    margin: 0px 15px;
+    font-size: 17px;
+    font-weight: 400;
+}
