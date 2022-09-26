@@ -27,3 +27,7 @@
     font-size: 17px;
     font-weight: 400;
 }
+.right >p:hover{
+    color:#ff3838;
+    cursor: pointer;
+}
